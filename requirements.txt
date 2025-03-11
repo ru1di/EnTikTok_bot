@@ -1,2 +1,4 @@
 aiogram
 requests
+yt-dlp
+beautifulsoup4
